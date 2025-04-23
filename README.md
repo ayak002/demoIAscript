@@ -30,7 +30,7 @@ OPENAI_API_KEY=your-openai-key-here
 ## 📦 Install
 
 ```bash
-git clone https://github.com/yourusername/openai-cli-chat.git
+git clone git@github.com:ayak002/demoIAscript.git
 
 cd openai-cli-chat
 
