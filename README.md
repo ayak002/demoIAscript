@@ -40,5 +40,5 @@ npm install
 RUN
 
 ```bash
-ts-node ask.ts
+ts-node Ask.ts
 ```
