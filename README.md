@@ -32,7 +32,7 @@ OPENAI_API_KEY=your-openai-key-here
 ```bash
 git clone git@github.com:ayak002/demoIAscript.git
 
-cd openai-cli-chat
+cd openai-cli-test
 
 npm install
 ```
