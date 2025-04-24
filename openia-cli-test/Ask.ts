@@ -62,7 +62,7 @@ rl.on('line', async (line) => {
 
   try {
     const chat = await openai.chat.completions.create({
-      model: 'gpt-4-1106-preview',
+      model: 'o1-mini',
       messages: [{ role: 'user', content: input }],
       tools,
       tool_choice: "auto"
